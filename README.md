@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ a programmer that the government fucks him every day<br>📚 I'm currently learning ...<br>🎯 Goals : linux <br>🎲 Fun fact : alien exist 👽</p>
+<p align="left">✨ a programmer who the government fucks him every day<br>📚 I'm currently learning ...<br>🎯 Goals : linux <br>🎲 Fun fact : alien exist 👽</p>
 
 ###
 
