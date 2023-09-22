@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is mamd</p>
+<p align="left">My name is mamad</p>
 
 ###
 
