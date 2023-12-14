@@ -39,13 +39,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/3145stlirqansb4jtctfvnfnhcc4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
